@@ -1,0 +1,28 @@
+
+.div1, .div2, .div3{
+   display: flex;
+justify-content: space-between;
+padding: 20px 10px;
+background-color: antiquewhite;
+}
+div{
+   text-align: center;
+}
+div{
+   width: 400px;
+}
+.div1{
+   justify-content: space-between;
+}
+.div2{
+   justify-content: space-between;
+}
+.div4{
+   display: flex;
+   justify-content: end;
+}
+/*.conteiner{
+   background-color: antiquewhite;
+   width: 400px;
+   height: 400;
+}*/
